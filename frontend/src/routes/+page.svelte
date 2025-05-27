@@ -1,6 +1,6 @@
 <script>
-    import Header from '../lib/components/shared/Header.svelte'
-    import Footer from '../lib/components/shared/Footer.svelte'
+    import Header from '../lib/components/Header.svelte'
+    import Footer from '../lib/components/Footer.svelte'
 </script>
 
 <Header />
