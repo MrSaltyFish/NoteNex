@@ -2,10 +2,10 @@
 
 </script>
 
-<div class="text-center grid-cols-3 grid-rows-3">
+<div class="text-center grid-cols-3 grid-rows-3 bg-red-400">
     <div>
         <p>
-    © All Rights Reserved | 2025
+            © All Rights Reserved | 2025
         </p>
     </div>
     <div>
